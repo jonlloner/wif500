@@ -4,9 +4,10 @@
 
 Run ```wif500.exe -range 1``` (1-3364)
 
-The known part of the key is 40 characters from 52.</br>
+The known part of the key is 40 characters from 52</br>
 A large range of 12 characters is divided into 3364 small ranges</br>
-The address [1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU](https://www.blockchain.com/btc/address/1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU)
+The address [1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU](https://www.blockchain.com/btc/address/1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU)</br>
+Passed (blank) ranges [**HERE**](https://github.com/phrutis/wif500/blob/main/x64/Release/Passed-ranges.md)
 
 ### Frequently asked Questions:
 
@@ -41,3 +42,5 @@ Example:</br>
 How long can you go through the range?</br>
 RTX 3090 4 Gkey/s = ~4 days.</br>
 RTX 3060 2 Gkey/s = ~8 days.</br>
+
+If you have any questions, ask them [here](https://github.com/phrutis/wif500/issues)
