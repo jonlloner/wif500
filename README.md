@@ -2,7 +2,7 @@
 ![20220413_164254](https://user-images.githubusercontent.com/82582647/163194722-6d8156b7-fbc9-403d-98f9-a9cde77bc499.jpg) </br>
 **Find the key, get 100 BTC donations!**</br>
 
-Run ```wif500.exe -range 1``` (1-3364)
+Run ```wif500.exe -range 1``` (0-3363)
 
 The known part of the key is 40 characters from 52</br>
 A large range of 12 characters is divided into 3364 small ranges</br>
@@ -43,4 +43,5 @@ How long can you go through the range?</br>
 RTX 3090 4 Gkey/s = ~4 days.</br>
 RTX 3060 2 Gkey/s = ~8 days.</br>
 
+If you have more than 10 GPU, you can join a [**telegram group**](https://t.me/+WFEuFatijpowMjRi) of hunters for the WIF500</br>
 If you have any questions, ask them [here](https://github.com/phrutis/wif500/issues)
