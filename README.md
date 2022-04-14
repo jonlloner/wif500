@@ -87,7 +87,7 @@ If you have any questions, ask them [here](https://github.com/phrutis/wif500/iss
 pie title Range charts
 "Total ranges: 3363" : 3363
 "Passed ranges: 54" : 54
-"in progress: 103" : 105
+"in progress: 105" : 105
 ```  
 
 
