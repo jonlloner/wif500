@@ -1,15 +1,11 @@
-### Numbers of ranges that have already been passed
-0
+## Numbers of ranges 0-3363
 
 
-1111 in progress Kuw
+| Range      | Hunter    | Status         |
+|------------|-----------|----------------|
+| 1111       | Kuw       |  in progress   |
+| 1123-1152  | Jason     |  in progress   |
+| 1210-1268  | Zebra     |  in progress   |
+| 1401       | Kuw       |  in progress   |
+| 1502       | Kuw       |  in progress   |
 
-1123-1152 in progress Jason
-
-1210-1268 in progress Zebra
-
-1401 in progress Kuw
-
-1502 in progress Kuw
-
-3363
