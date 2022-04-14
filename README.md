@@ -69,6 +69,7 @@ If you have any questions, ask them [here](https://github.com/phrutis/wif500/iss
 
 | Ranges      | Hunter    | Status         |
 |:------------|-----------|----------------|
+| 555        | OG 674    |  in progress :hammer:  |
 | 777        | JRodary   |  in progress :hammer:  |
 | 1111       | Kuw       |  in progress :hammer:  |
 | 1123-1152  | Jason     |  in progress :hammer:  |
