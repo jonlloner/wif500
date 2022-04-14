@@ -50,6 +50,7 @@ If you have any questions, ask them [here](https://github.com/phrutis/wif500/iss
 
 | Ranges      | Hunter    | Status         |
 |:------------|-----------|----------------|
+| 777        | JRodary   |  in progress :hammer:  |
 | 1111       | Kuw       |  in progress :hammer:  |
 | 1123-1152  | Jason     |  in progress :hammer:  |
 | 1210-1268  | Zebra     |  in progress :hammer:  |
@@ -64,7 +65,7 @@ If you have any questions, ask them [here](https://github.com/phrutis/wif500/iss
 pie title Range charts
 "Total ranges: 3363" : 3363
 "Passed ranges: 54" : 54
-"in progress: 102" : 102
+"in progress: 103" : 102
 ```  
 
 
