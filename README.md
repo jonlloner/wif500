@@ -8,7 +8,26 @@ The known part of the key is 40 characters from 52</br>
 A large range of 12 characters is divided into 3364 small ranges</br>
 The address [1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU](https://www.blockchain.com/btc/address/1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU)</br>
 If you have a GPU and are ready to search for a key 24/7</br>
-You can join our WIF500 hunter group on [**telegram group**](https://t.me/+WFEuFatijpowMjRi)</br>
+
+How to participate in the hunt for the key:</br>
+Add a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi) </br>
+Write: the numbers of the range in which you took for the search.</br>
+Do not take busy ranges, see the table.</br>
+I mark them in the [**table hunters**](https://github.com/phrutis/wif500/blob/main/x64/Release/Passed-ranges.md) as in progress.</br>
+
+When you have a range progress of more than 90% (100%) take a screenshot and post it in the group. </br>
+I will (check) and mark the range as passed, assign it to you.</br>
+
+If the key is found:</br>
+In addition to the main donation of 100 BTC to the finder.</br>
+There will be a small compensation of 3.364 btc to all hunters at 0.001 btc ($41) for each range they cover.</br> 
+This should offset the cost of electricity and more.</br>
+Do not try to draw screenshots, search honestly.</br>
+
+If the key is found earlier, the amount of 3.364 BTC will be divided into hunters with passed ranges.</br>
+Example.
+A total of 1000 ranges have been completed and the key has been found.</br>
+3.364 btc / 1000 = 0.00364 per completed range.</br>
 
 ### Frequently asked Questions:
 
