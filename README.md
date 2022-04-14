@@ -78,16 +78,17 @@ If you have any questions, ask them [here](https://github.com/phrutis/wif500/iss
 | 1502       | Kuw       |  in progress :hammer:  |
 | 1600       | Haymac    |  in progress :hammer:  |
 | 1610-1618  | Noname    |  in progress :hammer:  |
-| 1619-1672  | Noname    |  Passed ranges :heavy_check_mark:  |
+| 1619-1672  | Noname    |  Passed :heavy_check_mark:  |
 | 2020       | Leonid    |  in progress :hammer:  |
 | 2022       | Leonid    |  in progress :hammer:  |
+| 2581       | snaiper   |  in progress :hammer:  |
 | 2700       | Alexander |  in progress :hammer:  |
 
 ```mermaid
 pie title Range charts
 "Total ranges: 3363" : 3363
 "Passed ranges: 54" : 54
-"in progress: 105" : 105
+"in progress: 106" : 106
 ```  
 
 
