@@ -1,8 +1,8 @@
 ## Numbers of ranges 0-3363
 
 
-| Range      | Hunter    | Status         |
-|------------|-----------|----------------|
+| Ranges      | Hunter    | Status         |
+|:------------|-----------|----------------|
 | 1111       | Kuw       |  in progress :hammer:  |
 | 1123-1152  | Jason     |  in progress :hammer:  |
 | 1210-1268  | Zebra     |  in progress :hammer:  |
