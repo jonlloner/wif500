@@ -13,7 +13,7 @@ How to participate in the hunt for the key:</br>
 Add a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi) </br>
 Write: the numbers of the range in which you took for the search.</br>
 Do not take busy ranges, see the table.</br>
-I mark them in the [**table hunters**](https://github.com/phrutis/wif500/blob/main/x64/Release/Passed-ranges.md) as in progress.</br>
+I mark them in the [**table hunters**](https://github.com/phrutis/wif500#numbers-of-ranges-0-3363) as in progress.</br>
 
 When you have a range progress of more than 90% (100%) take a screenshot and post it in the group. </br>
 I will (check) and mark the range as passed, assign it to you.</br>
