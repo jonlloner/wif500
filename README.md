@@ -7,7 +7,6 @@ Run ```wif500.exe -range 1``` (0-3363)
 The known part of the key is 40 characters from 52</br>
 A large range of 12 characters is divided into 3364 small ranges</br>
 The address [1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU](https://www.blockchain.com/btc/address/1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU)</br>
-Passed (blank) ranges [**HERE**](https://github.com/phrutis/wif500/blob/main/x64/Release/Passed-ranges.md)</br>
 If you have a GPU and are ready to search for a key 24/7</br>
 You can join our WIF500 hunter group on [**telegram group**](https://t.me/+WFEuFatijpowMjRi)</br>
 
@@ -44,5 +43,28 @@ Example:</br>
 How long can you go through the range?</br>
 RTX 3090 4 Gkey/s = ~4 days.</br>
 RTX 3060 2 Gkey/s = ~8 days.</br>
-
 If you have any questions, ask them [here](https://github.com/phrutis/wif500/issues)
+
+## Numbers of ranges 0-3363
+
+
+| Ranges      | Hunter    | Status         |
+|:------------|-----------|----------------|
+| 1111       | Kuw       |  in progress :hammer:  |
+| 1123-1152  | Jason     |  in progress :hammer:  |
+| 1210-1268  | Zebra     |  in progress :hammer:  |
+| 1401       | Kuw       |  in progress :hammer:  |
+| 1502       | Kuw       |  in progress :hammer:  |
+| 1600       | Haymac    |  in progress :hammer:  |
+| 1610-1618  | Noname    |  in progress :hammer:  |
+| 1619-1672  | Noname    |  Passed ranges :heavy_check_mark:  |
+| 2700       | Alexander |  in progress :hammer:  |
+
+```mermaid
+pie title Range charts
+"Total ranges: 3363" : 3363
+"Passed ranges: 54" : 54
+"in progress: 102" : 102
+```  
+
+
