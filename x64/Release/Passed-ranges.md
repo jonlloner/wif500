@@ -8,4 +8,5 @@
 | 1210-1268  | Zebra     |  in progress   |
 | 1401       | Kuw       |  in progress   |
 | 1502       | Kuw       |  in progress   |
+| 1600       | Haymac    |  in progress   |
 
