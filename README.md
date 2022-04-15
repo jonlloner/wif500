@@ -78,6 +78,7 @@ RTX 3060 2 Gkey/s = ~8 days.</br>
 | 215        | bet more  |  in progress :hammer:  |
 | 219        | bet more  |  in progress :hammer:  |
 | 420-427    | bet more  |  in progress :hammer:  |
+| 444        | Artem     |  in progress :hammer:  |
 | 555        | OG 674    |  in progress :hammer:  |
 | 666        | bet more  |  in progress :hammer:  |
 | 777        | JRodary   |  in progress :hammer:  |
@@ -92,12 +93,15 @@ RTX 3060 2 Gkey/s = ~8 days.</br>
 | 1610-1618  | Noname    |  in progress :hammer:  |
 | 1619-1672  | Noname    |  Passed :heavy_check_mark:  |
 | 1725       | bet more  |  in progress :hammer:  |
+| 1992       | RamMos    |  in progress :hammer:  |
+| 2014       | RamMos    |  in progress :hammer:  |
 | 2020       | Leonid    |  in progress :hammer:  |
 | 2022       | Leonid    |  in progress :hammer:  |
 | 2581       | snaiper   |  in progress :hammer:  |
 | 2700       | Alexander |  in progress :hammer:  |
 | 2911       | bet more  |  in progress :hammer:  |
 | 3001       | bet more  |  in progress :hammer:  |
+| 3007-3009  | A         |  in progress :hammer:  |
 | 3021       | Kripto    |  in progress :hammer:  |
 | 3363       | bet more  |  in progress :hammer:  |
 
@@ -105,7 +109,7 @@ RTX 3060 2 Gkey/s = ~8 days.</br>
 pie title Range charts
 "Total ranges: 3363" : 3363
 "Passed ranges: 54" : 54
-"in progress: 124" : 124
+"in progress: 130" : 130
 ```  
 
 
