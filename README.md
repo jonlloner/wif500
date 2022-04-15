@@ -23,16 +23,16 @@ Do not take busy (in progress) ranges, see the [**table**](https://github.com/ph
 When you have a range progress of more than 90% (100%) take a screenshot (photo) and post it in the group. </br>
 I will (check) and mark the range as passed, assign it to you.</br>
 
-IF the key is found:</br>
-In addition to the main donation of 100 BTC to the finder.</br>
-There will be a small compensation of 33.64 btc to all hunters at 0.01 btc ($410) for each range they passed</br> 
-This should offset the cost of electricity and more.</br>
-Do not try to draw screenshots, search honestly.</br>
+### Compensations:
 
-If the key is found earlier, the amount of 33.64 BTC will be divided into hunters with passed ranges.</br>
-Example.
-A total of 1000 ranges have been completed and the key has been found.</br>
-33.64 btc / 1000 = 0.03364 per passed range.</br>
+ 1. When the key is found, the hunter that did find it will receive a full 100 BTC reward.</br>
+ 2. To the rest of the hunters, for every range completed, a 0.01 BTC  (410 usd) reward (to cover the electricity costs and not mining all that period) will be paid after the key is found. Total reward equals to 33.64 (0.01 BTC/range x 3364 ranges).
+
+### Rules:
+
+ 1. Do not counterfeit  the proof. Send genuine screenshot, search honestly - if you fake it and the key was in your range, everybody loses!
+ 2. If the key is found in early stages, that amount of 33.64 BTC for all the 3364 will be split among the hunters that have completed range searches. Example: Hunters completed cumulatively 1000 ranges at the time the key was found. The 33.64 BTC will be divided to those 1000 completed ranges, resulting in 0.03364 BTC for each completed range scan.
+
 
 ### Frequently asked Questions:
 
