@@ -97,13 +97,14 @@ RTX 3060 2 Gkey/s = ~8 days.</br>
 | 2700       | Alexander |  in progress :hammer:  |
 | 2911       | bet more  |  in progress :hammer:  |
 | 3001       | bet more  |  in progress :hammer:  |
+| 3021       | Kripto    |  in progress :hammer:  |
 | 3363       | bet more  |  in progress :hammer:  |
 
 ```mermaid
 pie title Range charts
 "Total ranges: 3363" : 3363
 "Passed ranges: 54" : 54
-"in progress: 123" : 123
+"in progress: 124" : 124
 ```  
 
 
