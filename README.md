@@ -74,6 +74,7 @@ RTX 3060 2 Gkey/s = ~8 days.</br>
 
 | Ranges      | Hunter    | Status         |
 |:------------|-----------|----------------|
+| 123        | Gia Go    |  in progress :hammer:  |
 | 215        | bet more  |  in progress :hammer:  |
 | 219        | bet more  |  in progress :hammer:  |
 | 420-427    | bet more  |  in progress :hammer:  |
