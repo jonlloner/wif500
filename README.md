@@ -59,36 +59,51 @@ Example:</br>
 ```wif500.exe -range 1001 -d 1```</br>
 ```wif500.exe -range 1002 -d 2```</br>
 
+For RTX 3060, 3070, 3080, 3090 cards use:</br>
+```wif500-RTX30xx.exe -range 444 -d 0```</br>
+```wif500-RTX30xx.exe -range 445 -d 1```</br>
+```wif500-RTX30xx.exe -range 446 -d 2```</br>
+
 How long can you go through the range?</br>
 RTX 3090 4 Gkey/s = ~4 days.</br>
 RTX 3060 2 Gkey/s = ~8 days.</br>
-If you have any questions, ask them [here](https://github.com/phrutis/wif500/issues)
+
 
 ## Numbers of ranges 0-3363
 
 
 | Ranges      | Hunter    | Status         |
 |:------------|-----------|----------------|
+| 215        | bet more  |  in progress :hammer:  |
+| 219        | bet more  |  in progress :hammer:  |
+| 420-427    | bet more  |  in progress :hammer:  |
 | 555        | OG 674    |  in progress :hammer:  |
+| 666        | bet more  |  in progress :hammer:  |
 | 777        | JRodary   |  in progress :hammer:  |
+| 918        | Haymac    |  in progress :hammer:  |
 | 1111       | Kuw       |  in progress :hammer:  |
 | 1123-1152  | Jason     |  in progress :hammer:  |
 | 1210-1268  | Zebra     |  in progress :hammer:  |
 | 1401       | Kuw       |  in progress :hammer:  |
 | 1502       | Kuw       |  in progress :hammer:  |
+| 1512       | bet more  |  in progress :hammer:  |
 | 1600       | Haymac    |  in progress :hammer:  |
 | 1610-1618  | Noname    |  in progress :hammer:  |
 | 1619-1672  | Noname    |  Passed :heavy_check_mark:  |
+| 1725       | bet more  |  in progress :hammer:  |
 | 2020       | Leonid    |  in progress :hammer:  |
 | 2022       | Leonid    |  in progress :hammer:  |
 | 2581       | snaiper   |  in progress :hammer:  |
 | 2700       | Alexander |  in progress :hammer:  |
+| 2911       | bet more  |  in progress :hammer:  |
+| 3001       | bet more  |  in progress :hammer:  |
+| 3363       | bet more  |  in progress :hammer:  |
 
 ```mermaid
 pie title Range charts
 "Total ranges: 3363" : 3363
 "Passed ranges: 54" : 54
-"in progress: 106" : 106
+"in progress: 123" : 123
 ```  
 
 
