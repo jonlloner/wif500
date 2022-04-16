@@ -28,6 +28,7 @@
 | 2022       | Leonid    |  in progress :hammer:  |  15.04.2022  |
 | 2581       | snaiper   |  in progress :hammer:  |  15.04.2022  |
 | 2700       | Alexander |  in progress :hammer:  |  15.04.2022  |
+| 2725-2731  | alico     |  in progress :hammer:  |  16.04.2022  |
 | 2911       | bet more  |  in progress :hammer:  |  15.04.2022  |
 | 3001       | bet more  |  in progress :hammer:  |  15.04.2022  |
 | 3007-3009  | A         |  in progress :hammer:  |  15.04.2022  |
@@ -35,8 +36,8 @@
 | 3363       | bet more  |  in progress :hammer:  |  15.04.2022  |
 
 ```mermaid
-pie title Range charts
-"Total ranges: 3363" : 3363
-"Passed ranges: 54" : 54
-"in progress: 130" : 130
+pie title Ranges 3364 charts
+"Free: 3173" : 3173
+"Passed: 54" : 54
+"in progress: 137" : 137
 ```  
