@@ -24,6 +24,7 @@
 | 1610-1618  | Noname    |  in progress :hammer:  |  13.04.2022  |
 | 1619-1672  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | 1725       | bet more  |  in progress :hammer:  |  15.04.2022  |
+| 1870       | Sam       |  in progress :hammer:  |  16.04.2022  |
 | 1992       | RamMos    |  in progress :hammer:  |  15.04.2022  |
 | 2014       | RamMos    |  in progress :hammer:  |  15.04.2022  |
 | 2020       | Leonid    |  in progress :hammer:  |  15.04.2022  |
@@ -39,7 +40,7 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 3173" : 3171
+"Free: 3173" : 3170
 "Passed: 54" : 54
-"in progress: 139" : 139
+"in progress: 140" : 140
 ```  
