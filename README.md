@@ -23,6 +23,8 @@ Do not take busy (in progress) ranges, see the [**table**](https://github.com/ph
 When you have a range progress of more than 90% (100%) take a screenshot (photo) and post it in the group. </br>
 I will (check) and mark the range as passed, assign it to you.</br>
 
+If the key is found, it will be displayed in the window and will also be written to the text file FOUND.txt
+
 ### Compensations:
 
  1. When the key is found, the hunter that did find it will receive a full 100 BTC reward.</br>
