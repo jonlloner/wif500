@@ -39,7 +39,7 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 3173" : 3173
+"Free: 3173" : 3171
 "Passed: 54" : 54
-"in progress: 137" : 137
+"in progress: 139" : 139
 ```  
