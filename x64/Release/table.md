@@ -3,6 +3,8 @@
 
 | Ranges      | Hunter    | Status         | Date        |
 |:------------|-----------|----------------|----------------|
+| 1          | Fantom    |  in progress :hammer:  |  16.04.2022  |
+| 2          | Fantom    |  in progress :hammer:  |  16.04.2022  |
 | 123        | Gia Go    |  in progress :hammer:  |  15.04.2022  |
 | 215        | bet more  |  in progress :hammer:  |  15.04.2022  |
 | 219        | bet more  |  in progress :hammer:  |  15.04.2022  |
