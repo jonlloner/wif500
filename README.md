@@ -1,12 +1,33 @@
 # Challenge WIF 500
-![20220413_164254](https://user-images.githubusercontent.com/82582647/163194722-6d8156b7-fbc9-403d-98f9-a9cde77bc499.jpg) </br>
-**Find the key, get 100 BTC donations!**</br>
+![IMG_20220318_210410_146](https://user-images.githubusercontent.com/82582647/163708493-1a2aac24-c4c2-49d8-8c69-a5f601abd020.jpg)</br>
+**Find the key, get 200 BTC donations!**</br>
 
 The known part of the key is 40 characters from 52</br>
 A large range of 12 characters is divided into 3364 small ranges</br>
-The address [1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU](https://www.blockchain.com/btc/address/1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU) (500 btc)</br>
+The address [1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU](https://www.blockchain.com/btc/address/1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU) 500 btc</br>
 
-## Conditions:
+You can search yourself in [WifSolverCuda](https://github.com/phrutis/WifSolverCuda)</br>
+But before that, read the following:</br>
+
+The problem is people's greed.</br>
+Everyone wants to search individually to take possession of all the coins, this is logical.</br>
+The range of missing symbols is very very large and everyone is spinning the same thing.</br>
+Some lone hunters make the mistake of rotating ranges that don't exist, further increasing the empty search time.</br>
+Sometimes they make other mistakes that make finding the key impossible.</br>
+After a week of searching, they begin to realize that the range is too large.</br>
+It is difficult and physically impossible to go through it, they will be disappointed, angry, and stop searching.</br>
+They start telling others that WIF is fake, sometimes dissuade them from looking for others.</br>
+As they say neither Sibe nor people.</br>
+
+Challenge is a collective search for a key.</br>
+The program is configured correctly, it takes into account many technical aspects of searching for the initial part of the key.</br>
+There is a table of hunters on which ranges are indicated in the process and passed. This way you won't pass empty ranges. </br>
+This speeds up the overall search process.</br>
+The advantage of the challenge is that each hunter, in case of a find, will receive quite a bit of compensation for the range he has covered.</br>
+Donate 200 btc is a worthy reward for a find.</br>
+You decide. Good luck!</br>
+
+## How to participate in the challenge:
 If you have a GPUs:</br>
 **RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090** and are ready to search for a key **24/7**</br>
 In the [**table**](https://github.com/phrutis/wif500/blob/main/x64/Release/table.md), select a **FREE** range between 0-3363
