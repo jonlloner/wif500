@@ -1,5 +1,5 @@
 # Challenge WIF 500
-![IMG_20220318_210410_146](https://user-images.githubusercontent.com/82582647/163708493-1a2aac24-c4c2-49d8-8c69-a5f601abd020.jpg)</br>
+
 **Find the key, get 200 BTC donations!**</br>
 
 The known part of the key is 40 characters from 52</br>
