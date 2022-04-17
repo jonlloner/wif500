@@ -7,16 +7,19 @@ A large range of 12 characters is divided into 3364 small ranges</br>
 The address [1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU](https://www.blockchain.com/btc/address/1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU) (500 btc)</br>
 
 ## Conditions:
-If you have a GPUs: **RTX 3060, 3070, 3080, 3090** and are ready to search for a key **24/7**</br>
+If you have a GPUs:</br>
+**RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090** and are ready to search for a key **24/7**</br>
 In the [**table**](https://github.com/phrutis/wif500/blob/main/x64/Release/table.md), select a **FREE** range between 0-3363
 
 Run ```wif500.exe -range ?``` (? free range 0-3363)
 
 RTX 3090 4 Gkey/s = ~4 days (one range)</br>
 RTX 3060 2 Gkey/s = ~8 days (one range)</br>
+RTX 2070 1,2Gkey/s = ~12 days (one range)</br>
+The program has no checkpoints, and the continuation</br>
 
 Add a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi) </br>
-Write: the numbers of the range in which you took for the search.</br>
+Write: @phrutis the numbers of the range in which you took for the search.</br>
 I will accept your participation and add you to the table</br>
 Do not take busy (in progress) ranges, see the [**table**](https://github.com/phrutis/wif500/blob/main/x64/Release/table.md).</br>
 
@@ -62,7 +65,7 @@ There are errors in the video that make the key impossible to find.</br>
 I have many GPUs. How to start?</br>
 Run each GPU separately with a new range Add your card id -d ?</br>
 Example:</br>
-For RTX 3060, 3070, 3080, 3090 cards use:</br>
+For RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090</br>
 ```wif500.exe -range 444 -d 0```</br>
 ```wif500.exe -range 445 -d 1```</br>
 ```wif500.exe -range 446 -d 2```</br>
