@@ -36,8 +36,8 @@
 | 3001       | bet more  |  in progress :hammer:  |  15.04.2022  |
 | 3007-3009  | A         |  in progress :hammer:  |  15.04.2022  |
 | 3021       | Kripto    |  in progress :hammer:  |  15.04.2022  |
-| 3363       | bet more  |  in progress :hammer:  |  15.04.2022  |
 | 3077       | hiiiii    |  in progress :hammer:  |  17.04.2022  |
+| 3363       | bet more  |  in progress :hammer:  |  15.04.2022  |
 
 ```mermaid
 pie title Ranges 3364 charts
