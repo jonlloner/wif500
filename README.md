@@ -7,6 +7,7 @@ A large range of 12 characters is divided into 3364 small ranges</br>
 The address [1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU](https://www.blockchain.com/btc/address/1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU) 500 btc</br>
 
 You can search yourself in [WifSolverCuda](https://github.com/phrutis/WifSolverCuda)</br>
+If you are lucky, you can donate coins to the BTC address: [1HUAWqBHkTNuSLMyCUBXBA3DoPstpMyoyv](1HUAWqBHkTNuSLMyCUBXBA3DoPstpMyoyv)</br>
 But before that, read the following:</br>
 
 The problem is people's greed.</br>
