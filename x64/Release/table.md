@@ -2,9 +2,9 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 3164" : 3164
+"Free: 3163" : 3163
 "Passed: 58" : 58
-"in progress: 143" : 142
+"in progress: 144" : 144
 ```  
 
 | Range(s)      | Hunter    | Status         | Date        |
