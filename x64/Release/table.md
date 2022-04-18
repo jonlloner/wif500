@@ -16,6 +16,7 @@
 | 666        | bet more  |  in progress :hammer:  |  15.04.2022  |
 | 777        | JRodary   |  in progress :hammer:  |  15.04.2022  |
 | 918        | Haymac    |  in progress :hammer:  |  15.04.2022  |
+| 1103       | Teddy     |  in progress :hammer:  |  18.04.2022  |
 | 1111       | Kuw       |  in progress :hammer:  |  13.04.2022  |
 | 1123-1152  | Jason     |  in progress :hammer:  |  15.04.2022  |
 | 1210-1268  | Zebra     |  in progress :hammer:  |  13.04.2022  |
@@ -45,7 +46,7 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 3165" : 3165
+"Free: 3164" : 3164
 "Passed: 57" : 57
-"in progress: 142" : 142
+"in progress: 143" : 143
 ```  
