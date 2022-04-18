@@ -35,7 +35,7 @@
 | 2021       | Leonid    |  in progress :hammer:  |  18.04.2022  |
 | 2022       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
 | 2581       | snaiper   |  in progress :hammer:  |  15.04.2022  |
-| 2700       | Alexander |  in progress :hammer:  |  15.04.2022  |
+| 2700       | Alexander |  Passed :heavy_check_mark:  |  18.04.2022  |
 | 2725-2731  | alico     |  in progress :hammer:  |  16.04.2022  |
 | 2911       | bet more  |  in progress :hammer:  |  15.04.2022  |
 | 3001       | bet more  |  in progress :hammer:  |  15.04.2022  |
@@ -47,6 +47,6 @@
 ```mermaid
 pie title Ranges 3364 charts
 "Free: 3164" : 3164
-"Passed: 57" : 57
-"in progress: 143" : 143
+"Passed: 58" : 58
+"in progress: 143" : 142
 ```  
