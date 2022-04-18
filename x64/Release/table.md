@@ -27,8 +27,8 @@
 | 1870       | Sam       |  in progress :hammer:  |  16.04.2022  |
 | 1992       | RamMos    |  in progress :hammer:  |  15.04.2022  |
 | 2014       | RamMos    |  in progress :hammer:  |  15.04.2022  |
-| 2020       | Leonid    |  in progress :hammer:  |  15.04.2022  |
-| 2022       | Leonid    |  in progress :hammer:  |  15.04.2022  |
+| 2020       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
+| 2022       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
 | 2581       | snaiper   |  in progress :hammer:  |  15.04.2022  |
 | 2700       | Alexander |  in progress :hammer:  |  15.04.2022  |
 | 2725-2731  | alico     |  in progress :hammer:  |  16.04.2022  |
@@ -42,6 +42,6 @@
 ```mermaid
 pie title Ranges 3364 charts
 "Free: 3173" : 3169
-"Passed: 54" : 54
-"in progress: 141" : 141
+"Passed: 56" : 56
+"in progress: 139" : 139
 ```  
