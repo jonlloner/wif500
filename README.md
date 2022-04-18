@@ -43,6 +43,10 @@ Add a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi) </br>
 Write: @phrutis the numbers of the range in which you took for the search.</br>
 I will accept your participation and add you to the table</br>
 Do not take busy (in progress) ranges, see the [**table**](https://github.com/phrutis/wif500/blob/main/x64/Release/table.md).</br>
+**Don't join if**</br>
+1. Your gpu is below RTX 2070</br>
+2. You are just interested, but you are not going to participate either.</br>
+3. Ask questions not related to the challenge.</br>
 
 When you have a range progress of more than 90% (100%) take a screenshot (photo) and post it in the group. </br>
 I will (check) and mark the range as passed, assign it to you.</br>
@@ -69,9 +73,6 @@ This requires large GPU resources.</br>
 Why is the program without source codes?</br>
 The correct ranges and other parameters are sewn into the WifSolverCuda program.</br>
 Knowing them, the user can find the key on his own and take everything for himself.</br>
-
-Why did you paint over the characters in the photo?</br>
-So that the user does not look for the key on the original program.</br>
 
 Does the program require an internet connection?</br>
 No, the program is looking for the key offline.</br>
