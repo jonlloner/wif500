@@ -2,14 +2,14 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 3163" : 3163
+"Free: 3162" : 3162
 "Passed: 58" : 58
-"in progress: 144" : 144
+"in progress: 145" : 145
 ```  
 
 |       | Range(s)      | Hunter    | Status         | Date        |
 |------------|:------------|-----------|----------------|----------------|
-| :green_circle:| 0          | FREE    |  FREE  |  00.00.0000  |
+| :yellow_circle:| 0          | phrutis    |  in progress :hammer:  |  19.04.2022  |
 | :yellow_circle:| 1          | Fantom    |  in progress :hammer:  |  16.04.2022  |
 | :yellow_circle:| 2          | Fantom    |  in progress :hammer:  |  16.04.2022  |
 | :green_circle:| 3          | FREE    |  FREE  |  00.00.0000  |
@@ -33,10 +33,16 @@ pie title Ranges 3364 charts
 | :green_circle:| 21         | FREE    |  FREE  |  00.00.0000  |
 | :green_circle:| 22         | FREE    |  FREE  |  00.00.0000  |
 | :yellow_circle:| 23         | Minase    |  in progress :hammer:  |  18.04.2022  |
+| :green_circle:| 24-122         | FREE    |  FREE  |  00.00.0000  |
 | :yellow_circle:| 123        | Gia Go    |  in progress :hammer:  |  15.04.2022  |
+| :green_circle:| 124-214         | FREE    |  FREE  |  00.00.0000  |
 | :yellow_circle:| 215        | bet more  |  in progress :hammer:  |  15.04.2022  |
+| :green_circle:| 216         | FREE    |  FREE  |  00.00.0000  |
+| :green_circle:| 217         | FREE    |  FREE  |  00.00.0000  |
+| :green_circle:| 218         | FREE    |  FREE  |  00.00.0000  |
 | :yellow_circle:| 219        | bet more  |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 420-427    | bet more  |  in progress :hammer:  |  15.04.2022  |
+| :green_circle:| 428-443         | FREE    |  FREE  |  00.00.0000  |
 | :yellow_circle:| 444        | Artem     |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 468        | Minase    |  in progress :hammer:  |  18.04.2022  |
 | :yellow_circle:| 555        | OG 674    |  in progress :hammer:  |  13.04.2022  |
