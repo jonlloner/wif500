@@ -35,7 +35,7 @@
 | 2911       | bet more  |  in progress :hammer:  |  15.04.2022  |
 | 3001       | bet more  |  in progress :hammer:  |  15.04.2022  |
 | 3007-3009  | A         |  in progress :hammer:  |  15.04.2022  |
-| 3021       | Kripto    |  in progress :hammer:  |  15.04.2022  |
+| 3021       | Kripto    |  Passed :heavy_check_mark:  |  18.04.2022  |
 | 3077       | hiiiii    |  in progress :hammer:  |  17.04.2022  |
 | 3363       | bet more  |  in progress :hammer:  |  15.04.2022  |
 
