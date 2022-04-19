@@ -3,11 +3,10 @@
 **Find the key, get 200 BTC donations!**</br>
 
 The known part of the key is 40 characters from 52</br>
-A large range of 12 characters is divided into 3364 small ranges</br>
 The address [1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU](https://www.blockchain.com/btc/address/1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU) 500 btc</br>
 
 You can search yourself in [WifSolverCuda](https://github.com/phrutis/WifSolverCuda)</br>
-If you are lucky, you can donate coins to the BTC address: [1HUAWqBHkTNuSLMyCUBXBA3DoPstpMyoyv](1HUAWqBHkTNuSLMyCUBXBA3DoPstpMyoyv)</br>
+If you are lucky, you can donate coins to the BTC address: 1HUAWqBHkTNuSLMyCUBXBA3DoPstpMyoyv</br>
 But before that, read the following:</br>
 
 The problem is people's greed.</br>
@@ -21,6 +20,7 @@ They start telling others that WIF is fake, sometimes dissuade them from looking
 As they say neither Sibe nor people.</br>
 
 Challenge is a collective search for a key.</br>
+A large range of 12 characters is divided into 3364 small ranges</br>
 The program is configured correctly, it takes into account many technical aspects of searching for the initial part of the key.</br>
 There is a table of hunters on which ranges are indicated in the process and passed. This way you won't pass empty ranges. </br>
 This speeds up the overall search process.</br>
