@@ -7,7 +7,7 @@ The address [1PfNh5fRcE9JKDmicD2Rh3pexGwce1LqyU](https://www.blockchain.com/btc/
 
 You can search yourself in [WifSolverCuda](https://github.com/phrutis/WifSolverCuda)</br>
 If you are lucky, you can donate coins to the BTC address: 1HUAWqBHkTNuSLMyCUBXBA3DoPstpMyoyv</br>
-But before that, read the following:</br>
+### But before that, read the following:</br>
 
 The problem is people's greed.</br>
 Everyone wants to search individually to take possession of all the coins, this is logical.</br>
@@ -16,10 +16,8 @@ Some lone hunters make the mistake of rotating ranges that don't exist, further 
 Sometimes they make other mistakes that make finding the key impossible.</br>
 After a week of searching, they begin to realize that the range is too large.</br>
 It is difficult and physically impossible to go through it, they will be disappointed, angry, and stop searching.</br>
-They start telling others that WIF is fake, sometimes dissuade them from looking for others.</br>
-As they say neither Sibe nor people.</br>
 
-Challenge is a collective search for a key.</br>
+### Challenge is a collective search for a key
 A large range of 12 characters is divided into 3364 small ranges</br>
 The program is configured correctly, it takes into account many technical aspects of searching for the initial part of the key.</br>
 There is a table of hunters on which ranges are indicated in the process and passed. This way you won't pass empty ranges. </br>
@@ -56,7 +54,7 @@ If the key is found, it will be displayed in the window and will also be written
 
 ### Compensations:
 
- 1. When the key is found, the hunter that did find it will receive a full 100 BTC reward.</br>
+ 1. When the key is found, the hunter that did find it will receive a full 200 BTC reward.</br>
  2. To the rest of the hunters, for every range completed, a 0.01 BTC  (410 usd) reward (to cover the electricity costs and not mining all that period) will be paid after the key is found. Total reward equals to 33.64 (0.01 BTC/range x 3364 ranges).
 
 ### Rules:
@@ -87,7 +85,6 @@ There are errors in the video that make the key impossible to find.</br>
 
 I have many GPUs. How to start?</br>
 Run each GPU separately with a new range Add your card id -d ?</br>
-Example:</br>
 For RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090</br>
 ```wif500.exe -range 444 -d 0```</br>
 ```wif500.exe -range 445 -d 1```</br>
