@@ -3,8 +3,8 @@
 ```mermaid
 pie title Ranges 3364 charts
 "Free: 3162" : 3162
-"Passed: 58" : 58
-"in progress: 145" : 145
+"Passed: 59" : 59
+"in progress: 144" : 144
 ```  
 
 |       | Range(s)      | Hunter    | Status         | Date        |
@@ -60,7 +60,7 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 1610-1618  | Noname    |  in progress :hammer:  |  13.04.2022  |
 | :red_circle:   | 1619-1672  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :yellow_circle:| 1725       | bet more  |  in progress :hammer:  |  15.04.2022  |
-| :yellow_circle:| 1870       | Sam       |  in progress :hammer:  |  16.04.2022  |
+| :red_circle:   | 1870       | Sam       |  Passed :heavy_check_mark:  |  20.04.2022  |
 | :yellow_circle:| 1992       | RamMos    |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 2014       | RamMos    |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 2019       | Leonid    |  in progress :hammer:  |  18.04.2022  |
