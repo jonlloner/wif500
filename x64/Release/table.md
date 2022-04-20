@@ -2,9 +2,9 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 3162" : 3162
+"Free: 3162" : 3161
 "Passed: 59" : 59
-"in progress: 144" : 144
+"in progress: 145" : 145
 ```  
 
 |       | Range(s)      | Hunter    | Status         | Date        |
@@ -47,6 +47,7 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 468        | Minase    |  in progress :hammer:  |  18.04.2022  |
 | :yellow_circle:| 555        | OG 674    |  in progress :hammer:  |  13.04.2022  |
 | :yellow_circle:| 666        | bet more  |  in progress :hammer:  |  15.04.2022  |
+| :yellow_circle:| 729        | HeiLi     |  in progress :hammer:  |  20.04.2022  |
 | :yellow_circle:| 777        | JRodary   |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 918        | bet more  |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 1103       | Teddy     |  in progress :hammer:  |  18.04.2022  |
