@@ -2,8 +2,8 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 2926" : 2926
-"Passed: 59" : 59
+"Free: 2925" : 2925
+"Passed: 60" : 60
 "in progress: 438" : 438
 ```  
 
@@ -13,19 +13,7 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 1          | Fantom    |  in progress :hammer:  |  16.04.2022  |
 | :yellow_circle:| 2          | Fantom    |  in progress :hammer:  |  16.04.2022  |
 | :yellow_circle:| 3-9       | 047    |  in progress :hammer:  |  20.04.2022  |
-| :green_circle:| 10         | FREE    |  FREE  |  00.00.0000  |
-| :green_circle:| 11         | FREE    |  FREE  |  00.00.0000  |
-| :green_circle:| 12         | FREE    |  FREE  |  00.00.0000  |
-| :green_circle:| 13         | FREE    |  FREE  |  00.00.0000  |
-| :green_circle:| 14         | FREE    |  FREE  |  00.00.0000  |
-| :green_circle:| 15         | FREE    |  FREE  |  00.00.0000  |
-| :green_circle:| 16         | FREE    |  FREE  |  00.00.0000  |
-| :green_circle:| 17         | FREE    |  FREE  |  00.00.0000  |
-| :green_circle:| 18         | FREE    |  FREE  |  00.00.0000  |
-| :green_circle:| 19         | FREE    |  FREE  |  00.00.0000  |
-| :green_circle:| 20         | FREE    |  FREE  |  00.00.0000  |
-| :green_circle:| 21         | FREE    |  FREE  |  00.00.0000  |
-| :green_circle:| 22         | FREE    |  FREE  |  00.00.0000  |
+| :green_circle:| 10-22         | FREE    |  FREE  |  00.00.0000  |
 | :yellow_circle:| 23         | Minase    |  in progress :hammer:  |  18.04.2022  |
 | :green_circle:| 24-122         | FREE    |  FREE  |  00.00.0000  |
 | :yellow_circle:| 123        | Gia Go    |  in progress :hammer:  |  15.04.2022  |
@@ -42,7 +30,8 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 555        | OG 674    |  in progress :hammer:  |  13.04.2022  |
 | :yellow_circle:| 666        | bet more  |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 729        | HeiLi     |  in progress :hammer:  |  20.04.2022  |
-| :yellow_circle:| 777        | JRodary   |  in progress :hammer:  |  15.04.2022  |
+| :no_entry:     | 777        | JRodary   |  Passed :heavy_check_mark:  |  20.04.2022  |
+| :yellow_circle:| 778        | JRodary   |  in progress :hammer:  |  20.04.2022  |
 | :yellow_circle:| 918        | bet more  |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 1103       | Teddy     |  in progress :hammer:  |  18.04.2022  |
 | :yellow_circle:| 1111       | Kuw       |  in progress :hammer:  |  13.04.2022  |
