@@ -2,9 +2,9 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 3154" : 3154
+"Free: 2926" : 2926
 "Passed: 59" : 59
-"in progress: 152" : 152
+"in progress: 438" : 438
 ```  
 
 |       | Range(s)      | Hunter    | Status         | Date        |
@@ -53,24 +53,25 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 1512       | bet more  |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 1600       | Haymac    |  in progress :hammer:  |  13.04.2022  |
 | :yellow_circle:| 1610-1618  | Noname    |  in progress :hammer:  |  13.04.2022  |
-| :red_circle:   | 1619-1672  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
+| :no_entry:     | 1619-1672  | Noname    |  Passed :heavy_check_mark:  |  13.04.2022  |
 | :yellow_circle:| 1725       | bet more  |  in progress :hammer:  |  15.04.2022  |
-| :red_circle:   | 1870       | Sam       |  Passed :heavy_check_mark:  |  20.04.2022  |
+| :no_entry:     | 1870       | Sam       |  Passed :heavy_check_mark:  |  20.04.2022  |
 | :yellow_circle:| 1992       | RamMos    |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 2014       | RamMos    |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 2019       | Leonid    |  in progress :hammer:  |  18.04.2022  |
-| :red_circle:   | 2020       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
+| :no_entry:     | 2020       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :yellow_circle:| 2021       | Leonid    |  in progress :hammer:  |  18.04.2022  |
-| :red_circle:   | 2022       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
+| :no_entry:     | 2022       | Leonid    |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :yellow_circle:| 2581       | snaiper   |  in progress :hammer:  |  15.04.2022  |
-| :red_circle:   | 2700       | Alexander |  Passed :heavy_check_mark:  |  18.04.2022  |
+| :no_entry:     | 2700       | Alexander |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :yellow_circle:| 2725-2731  | alico     |  in progress :hammer:  |  16.04.2022  |
 | :yellow_circle:| 2911       | bet more  |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 3001       | bet more  |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 3007-3009  | A         |  in progress :hammer:  |  15.04.2022  |
-| :red_circle:   | 3021       | Kripto    |  Passed :heavy_check_mark:  |  18.04.2022  |
+| :no_entry:     | 3021       | Kripto    |  Passed :heavy_check_mark:  |  18.04.2022  |
 | :yellow_circle:| 3023       | Kripto    |  in progress :hammer:  |  18.04.2022  |
 | :yellow_circle:| 3077       | hiiiii    |  in progress :hammer:  |  17.04.2022  |
+| :no_entry:| 3078-3362  | mini      |  Reserved :white_check_mark:  |  20.04.2022  |
 | :yellow_circle:| 3363       | bet more  |  in progress :hammer:  |  15.04.2022  |
 
 
