@@ -3,8 +3,8 @@
 ```mermaid
 pie title Ranges 3364 charts
 "Free: 2924" : 2924
-"Passed: 60" : 60
-"in progress: 439" : 439
+"Passed: 61" : 61
+"in progress: 438" : 438
 ```  
 
 |       | Range(s)      | Hunter    | Status         | Date        |
@@ -38,7 +38,7 @@ pie title Ranges 3364 charts
 | :yellow_circle:| 1111       | Kuw       |  in progress :hammer:  |  13.04.2022  |
 | :yellow_circle:| 1123-1152  | Jason     |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 1210-1268  | Zebra     |  in progress :hammer:  |  13.04.2022  |
-| :yellow_circle:| 1401       | Kuw       |  in progress :hammer:  |  13.04.2022  |
+| :no_entry:     | 1401       | Kuw       |  Passed :heavy_check_mark:  |  21.04.2022  |
 | :yellow_circle:| 1502       | Kuw       |  in progress :hammer:  |  13.04.2022  |
 | :yellow_circle:| 1512       | bet more  |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 1600       | Haymac    |  in progress :hammer:  |  13.04.2022  |
