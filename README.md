@@ -34,8 +34,8 @@ In the [**table**](https://github.com/phrutis/wif500/blob/main/x64/Release/table
 Run ```wif500.exe -range ?``` (? free range 0-3363)
 
 RTX 3090 4 Gkey/s = ~4 days (one range)</br>
-RTX 3060 2 Gkey/s = ~8 days (one range)</br>
-RTX 2070 1,2Gkey/s = ~12 days (one range)</br>
+RTX 3060 1.4 Gkey/s = ~9 days (one range)</br>
+RTX 2070 1,2 Gkey/s = ~12 days (one range)</br>
 The program has no checkpoints, and the continuation</br>
 
 Add a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi) </br>
