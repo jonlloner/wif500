@@ -2,9 +2,9 @@
 
 ```mermaid
 pie title Ranges 3364 charts
-"Free: 2925" : 2925
+"Free: 2924" : 2924
 "Passed: 60" : 60
-"in progress: 438" : 438
+"in progress: 439" : 439
 ```  
 
 |       | Range(s)      | Hunter    | Status         | Date        |
@@ -24,7 +24,8 @@ pie title Ranges 3364 charts
 | :green_circle:| 218         | FREE    |  FREE  |  00.00.0000  |
 | :yellow_circle:| 219        | bet more  |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 420-427    | bet more  |  in progress :hammer:  |  15.04.2022  |
-| :green_circle:| 428-443         | FREE    |  FREE  |  00.00.0000  |
+| :yellow_circle:| 428        | Sam       |  in progress :hammer:  |  21.04.2022  |
+| :green_circle:| 429-443         | FREE    |  FREE  |  00.00.0000  |
 | :yellow_circle:| 444        | Artem     |  in progress :hammer:  |  15.04.2022  |
 | :yellow_circle:| 468        | Minase    |  in progress :hammer:  |  18.04.2022  |
 | :yellow_circle:| 555        | OG 674    |  in progress :hammer:  |  13.04.2022  |
